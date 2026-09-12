@@ -64,8 +64,6 @@ O projeto foi consolidado em um dashboard de 2 páginas, permitindo exploração
 
 ![Tendências e Auditoria](images/dashboard_tendencias.png)
 
-> 📁 O arquivo `.pbix` completo está disponível em [`/dashboard/HR_Analytics_Dashboard.pbix`](dashboard/HR_Analytics_Dashboard.pbix).
-
 ---
 
 ## 📈 Principais Descobertas
